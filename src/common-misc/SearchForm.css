@@ -1,0 +1,15 @@
+#searchForm {
+    padding-bottom: 2em;
+    width: 700px;
+    margin: 0 auto;
+}
+
+#searchBar {
+    float: left;
+    width: 600px;
+}
+
+#searchButton {
+    float: right;
+    width: 100px;
+}
